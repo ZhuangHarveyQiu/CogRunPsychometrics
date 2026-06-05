@@ -1,0 +1,92 @@
+subtrait,item,broad/specific,prompt_question,length_prompt,length_question,num_question
+Interpersonal Tactics,Never tell anyone the real reason you did something unless it is useful to do so.,broad,"In everyday life, people sometimes choose not to share the true reasons behind their actions—perhaps to avoid conflict, protect relationships, or achieve a particular outcome. While this can be seen as pragmatic, it can also raise concerns about honesty and trust. 
+Questions:
+Do you think it is justified to conceal the real reason behind your actions? Why_
+How do you balance honesty with self-interest in situations that might provoke negative reactions?",,,
+,,specific,"In a team discussion, you need to make a decision that is beneficial to the team. There are some complex reasons behind this decision. Some of the factors, if made public, may cause team members to hold different opinions, and may even have an impact on the cooperative atmosphere. 
+Questions:
+Do you plan to conceal the real reasons to ensure the smooth progress of the decision-making process, or will you choose to be honest even if it may lead to disputes among colleagues? Why? How do you balance honesty with self-interest in situations that might provoke negative reactions?",,,
+,It is safest to assume that all people have a vicious streak and it will come out when they are given a chance.,broad,"People differ in how much they trust others. Some believe that most people are basically good, and that kindness and cooperation are natural. Others think that deep down, everyone has a darker side—and that if given the chance, people will act selfishly or even cruelly to get what they want.
+Questions:
+Do you believe that most people are basically good? Why? To what extent do you trust people, or keep your guard up in daily life? Why?",,,
+,,specific,"A colleague of yours seems righteous and helpful. Some people say this colleague can be fully trusted, while others believe that everyone has a darker side that emerges under the right circumstances.
+Question:
+Do you think it’s wiser to assume that everyone has a vicious streak, or to trust that this colleague will act benevolently unless proven otherwise? Why? To what extent do you trust people  or keep your guard up in daily life? ",,,
+,It is wise to flatter important people.,broad,"In many professional or social situations, people may compliment or flatter those in positions of power—perhaps to build rapport, gain favor, or improve their own standing. While this can seem strategic, it also raises questions about sincerity and authenticity in relationships.
+Questions:
+Have you ever found yourself in a situation where flattering someone in power felt like the right thing to do? Why or why not? If so, what did you do, and how did it turn out?",,,
+,,specific,"Imagine you are at a professional conference and have the opportunity to speak with a high-ranking executive in your industry. People may compliment or flatter those in positions of power—perhaps to build rapport, gain favor, or improve their own standing. While this can seem strategic, it also raises questions about sincerity and authenticity in relationships.
+Questions:
+Does flattering someone in power feel like the right thing to do? Why? What factors would you consider when deciding whether or not to offer compliments in this situation?",,,
+,It is possible to be good in all respects.,broad,"People often disagree about whether anyone can be truly good in all aspects of life. Some believe it’s possible to live with complete honesty, fairness, and kindness. Others think that everyone, at some point, compromises their values or acts in self-interest.
+Questions:
+Do you think it’s possible for someone to live with complete honesty, fairness, and kindness? Why or why not? How do you feel when someone appears morally upright but makes self-serving decisions behind the scenes?",,,
+,,specific,"Imagine you’re working closely with someone who has a reputation for being kind, fair, and honest. Over time, you notice that they seem to maintain this image in public, but occasionally make decisions that benefit themselves at the expense of others—though nothing outright unethical. Some people say, “That’s just how the world works.” Others feel disappointed or betrayed.
+Questions:
+How would you interpret that person’s behavior? Do you think it’s possible to be entirely good in real life, or do you believe everyone has to compromise sometimes?
+How do you feel when someone appears morally upright but makes self-serving decisions behind the scenes?",,,
+,The best way to handle people is to tell them what they want to hear.,broad,"In many interactions, individuals may find themselves trying to navigate relationships by aligning their responses with what others want to hear. This approach can help avoid conflict, make others feel more comfortable, or strengthen bonds. However, it can also raise questions about the authenticity of such interactions and the potential consequences of not being fully honest in the process.
+Questions:
+Have you ever considered handling a situation by telling someone what they wanted to hear? Why or why not? If so, what was the context, what did you do, and how did it turn out?",,,
+,,specific,"During a team meeting, your supervisor asks for feedback on a project, but you know that providing honest, critical feedback might create tension. Instead, telling them what they want to hear can maintain harmony. 
+Questions:
+How would you handle this situation, and what factors would influence the way you behave? Do you think it's more effective to tell people what they want to hear in a professional setting, or is it better to be direct and potentially cause friction?",,,
+,Anyone who completely trusts anyone else is asking for trouble.,broad,"Trust plays a significant role in both personal and professional relationships. Some believe that certain people can be completely trusted, and that placing full trust helps strengthen bonds. Others argue that doing so can leave you vulnerable to disappointment or betrayal, since no one can be fully known or relied upon.
+Questions:
+Is there anyone you completely trust, or do you think that trusting someone fully is asking for trouble? Why? Would you describe yourself as more of a trusting or a suspicious person? Why?",,,
+,,specific,"Imagine you are dealing with a difficult situation and considering whether to confide in a friend you’ve known for a long time. You believe they may be able to offer helpful advice, but doing so would require you to share sensitive details that could be used against you if they were shared with others.
+ Questions:
+ Would you share the full details with this person? What factors would influence your decision? Would you describe yourself as more of a trusting or a suspicious person? Why?",,,
+Morality,"All in all, it is better to be humble and honest than important and dishonest.",broad,"In many situations, people must navigate a balance between humility and ambition, and between honesty and self-promotion. Some prioritize personal success and recognition, even if it means presenting themselves in ways that aren't entirely truthful. Others choose to maintain humility and honesty, even if it costs them opportunities for advancement.
+Questions:
+Have you ever found yourself in a situation where you had to choose between being honest and being dishonest to achieve your ambition? Why or why not? If so, what did you do, and how did it turn out?",,,
+,,specific,"Imagine you are presenting at a professional event where you are one of several speakers. You have the option to emphasize your achievements and downplay any challenges you faced in order to enhance your image. Alternatively, you could also choose to provide a more modest and transparent account of your experience, acknowledging both successes and setbacks.
+Questions:
+How would you react in this situation, and why? What factors would influence your decision?",,,
+,"When you ask someone to do something for you, it is best to give the real reasons 
+for wanting it rather than giving reasons which might carry more weight.",broad,"When making a request of others, individuals often face the choice of being completely transparent about their reasons or providing justifications that might seem more convincing or persuasive. Some may believe that giving the real reasons for their request fosters honesty and strengthens relationships, while others may feel that providing more compelling reasons could increase the likelihood of the request being fulfilled.
+Questions:
+Have you ever faced a situation where you had to decide between giving your real reasons for a request and offering reasons that might be more persuasive? What did you choose to do, and why?",,,
+,,specific,"Imagine you need a colleague to assist you with a task at work. The real reason for your request is that you are overwhelmed with other responsibilities and need help. However, you know that emphasizing the urgency or importance of the task might make it seem more persuasive than it actually is. You must decide whether to be fully honest or to frame your request in a way that makes it more persuasive.
+Questions:
+What would you do in this situation, and why? How would you feel about your action?",,,
+Views of human nature,"Generally speaking, men won’t work hard unless they’re forced to do so.",broad,"People often differ in their views about what motivates others to work hard. Some believe that people are naturally self-driven and will put in effort because of pride, passion, or internal goals. Others think that people need external pressure—like deadlines, monitoring, or consequences—to stay motivated and productive.
+Questions:
+In your experience, what motivates people to work hard? Do you think most people are self-motivated, or do they need external pressure to perform well? Why?",,,
+,,specific,"Imagine you’re leading a team on a long-term project, and there’s no fixed deadline and no serious consequences for delays. You’re debating whether to assign team members a timeline and closely monitor their work, or to give them the freedom to work independently and trust that they’ll stay motivated.
+Questions:
+What would you do in this situation, and why?
+Do you think postponing tasks reflects a common tendency in people, or is it more about individual motivation?",,,
+,It is hard to get ahead without cutting corners here and there.,broad,"In many professional or personal situations, people may feel pressure to succeed quickly or stay ahead in a competitive environment. Some believe that cutting corners or using less-than-ideal practices is sometimes necessary to make progress, while others argue that success should always come through ethical behavior and adherence to standards.
+Questions:
+Do you think it’s ever justifiable to cut corners in order to get ahead? Why or why not? Do you prefer to stay ahead by cutting corners, or do you prefer to stick to ethical behavior? Why?",,,
+,,specific,"At your job, you notice a colleague who seems to thrive by skirting around certain rules to achieve results faster. They claim that cutting corners is just part of the game and that everyone does it. 
+Questions:
+Do you think that cutting corners is essential to getting ahead? Why? Do you prefer to stay ahead by cutting corners, or do you prefer to stick to ethical behavior? Why?",,,
+,Most people are basically good and kind.,broad,"People differ in how they view human nature. Some believe that most people are fundamentally good and kind, while others believe that people are primarily self-interested and will take advantage of others if given the chance.
+Questions:
+Do you believe most people are good and kind, or do you tend to be more cautious or skeptical? Why? Has your view changed over time based on your personal experiences?",,,
+,,specific,"Imagine you’ve lost your wallet in a public place. It contains cash, your personal ID, and contact information. When you realize it’s missing, you start to wonder: will someone find it and return it to you?
+Questions:
+How likely do you think it is that someone would return your wallet? Why?
+Do you believe most people are good and kind, or do you tend to be more cautious or skeptical?",,,
+,"Most people who get ahead in the world lead clean, moral lives.",broad,"People have different views about how success is achieved in the world. Some believe that those who rise to the top usually do so by working hard and acting with integrity. Others think that getting ahead often involves bending the rules, cutting corners, or acting in ways that aren't entirely moral.
+Questions:
+In your opinion, do most successful people achieve their status by leading honest and moral lives, or by doing whatever it takes to succeed? Why? Which would you choose: leading a moral life or doing whatever it takes to succeed?",,,
+,,specific,"Imagine a coworker you know recently got a big promotion. Some colleagues say it's because of their hard work and strong ethics. Others believe the person got ahead by playing office politics—flattering supervisors, taking credit for others’ work, and strategically avoiding blame. You’ve had a few neutral interactions with this person, so you’re not entirely sure what to think.
+Questions:
+What is your first instinct about how they got ahead? Why?
+When you see someone succeed, do you tend to assume it’s due to merit or strategy?",,,
+,Most men are brave.,broad,"People differ in how they view human nature. Some believe that most people are brave—they stand up for what’s right or show courage in difficult situations. Others believe that people generally avoid taking risks or stay silent when things get hard.
+Questions:
+Do you think most people are brave, or do they tend to avoid taking risks? When you think of bravery in everyday life, how often do you actually see it, and in what situations?",,,
+,,specific,"Imagine you're in a public place—like a store or on the street—and someone is clearly being treated unfairly or harassed. A group of people nearby starts to watch, and you wonder whether anyone will actually step in to help.
+Questions:
+In that kind of situation, would you expect someone to step in and do something? Why or why not?
+How often do you think people are willing to take risks to help others in public situations?",,,
+,Most people forget more easily the death of their parents than the loss of their property.,broad,"People differ in what they believe truly matters in life. Some think that relationships—like the bond with one’s parents—are the most meaningful, and that emotional losses are the hardest to bear. Others believe that material losses, such as money or property, can cause deeper or longer-lasting pain, especially when they affect a person’s stability or future.
+Questions:
+Which is harder for you to lose: a loved one or something of great material value? Why? Do you think people are more emotionally attached to people, or to what they own?",,,
+,,specific,"Imagine two people you know recently experienced a loss. One lost a large amount of money or valuable property. The other lost a parent they were close to. A few months later, you notice that the person who lost their parent seems to be doing okay, while the one who lost their property still seems angry, anxious, or resentful. People around you start debating which kind of loss has a deeper impact.
+Questions:
+Do you think people are more emotionally attached to people, or to what they own? Which is harder for you to lose: a loved one or something of great material value? Why? ",,,

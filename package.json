@@ -1,0 +1,21 @@
+{
+  "name": "llm_psych",
+  "version": "1.0.0",
+  "main": "exp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@jspsych/plugin-html-button-response": "^2.1.0",
+    "@jspsych/plugin-survey-likert": "^2.1.0",
+    "@jspsych/plugin-survey-multi-choice": "^2.1.0",
+    "@jspsych/plugin-survey-text": "^2.1.0",
+    "jspsych": "^8.2.1"
+  },
+  "devDependencies": {
+    "vite": "^6.3.2"
+  }
+}

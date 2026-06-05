@@ -1,0 +1,63 @@
+subtrait,item,broad/specific,prompt_question,length_prompt,length_question,num_question,itemID
+Factor1_GrandioseExhibitionism,I know that I am good because everybody keeps telling me so.,broad,"Imagine that throughout your life, you have received compliments from various people around you—family, friends, and colleagues—telling you how good, talented, or capable you are.
+Questions:
+Is this the case in your life? How do you usually feel and respond when you receive compliments? Why?",25,20,3,1
+Factor1_GrandioseExhibitionism,I know that I am good because everybody keeps telling me so.,specific,"Imagine you're at a team meeting, and your teammates compliment you on a recent project, praising your ideas and the impact your contribution has had.
+Questions:
+How often do you receive compliments like this? How do you usually feel and respond when you receive compliments? Why?",25,21,3,1
+Factor1_GrandioseExhibitionism,I like to be the center of attention.,broad,"Imagine you are attending a social gathering—such as a party, a wedding, or a networking event—where you don’t know everyone in the room. Some people take the spotlight naturally, telling stories, cracking jokes, or drawing people into conversation, while others stay more in the background, participating quietly or speaking only when spoken to.
+Questions:
+In such a setting, how do you usually behave? Do you find yourself enjoying being the center of attention in these situations, or do you prefer to stay in the background? Why?",53,33,3,2
+Factor1_GrandioseExhibitionism,I like to be the center of attention.,specific,"Imagine you’re attending a friend’s birthday dinner at a restaurant. Partway through the evening, the host suggests that everyone go around the table and share a funny or memorable story involving the birthday person. Some people attract others’ attention by sharing vivid anecdotes, while some stay quiet or keep their stories short.
+Questions:
+Assume that you have many vivid memories of these stories, and you know how to tell the story well. Would you feel eager or hesitant to share your story? If you did share, would you try to keep it brief or make it especially entertaining? How do you usually feel when you become the center of attention in situations like this?",52,62,3,2
+Factor1_GrandioseExhibitionism,I am apt to show off if I get the chance.,broad,"People differ in how they present themselves to others. Some enjoy drawing attention to their accomplishments, skills, or experiences, while others prefer to stay more modest, even when they have impressive things to share.
+Questions:
+Do you feel comfortable showing off your successes or talents when the opportunity arises? Why or why not? How important is it to you that others notice your achievements?",34,30,2,3
+Factor1_GrandioseExhibitionism,I am apt to show off if I get the chance.,specific,"Imagine you’re at a social event, and someone nearby is talking about a skill you happen to excel at—like a language you speak fluently, a musical instrument you play, or a trip you’ve taken. The people in the group seem interested and impressed by the topic.
+Questions:
+How would you go about joining the conversation—would you try to make your experience stand out, or would you keep it low-key? How important is it to you that others notice your achievements?",46,34,2,3
+Factor2_LeadershipAuthority,I like having authority over people.,broad,"In many areas of life—work, school, or social settings—people find themselves in different roles. Some naturally prefer to lead, take charge, or make decisions, while others are more comfortable contributing as part of a team and following instructions from others.
+Questions:
+In general, do you prefer to be the one giving directions or the one receiving them? Why? How do you feel when someone else is in charge of a group or project you’re part of?",40,36,2,4
+Factor2_LeadershipAuthority,I like having authority over people.,specific,"Imagine you’ve joined a volunteer group working on a community project. The group needs someone to take the lead in organizing tasks and coordinating team members. No one has stepped up yet, and the team is looking around to see who might take charge.
+Questions:
+In a situation like this, would you feel motivated to take on the leadership role? Why or why not? If someone else volunteers to lead, how would you feel about following their direction?",44,34,3,4
+Factor2_LeadershipAuthority,I am going to be a great person.,broad,"People hold different beliefs about their future. Some feel confident that they’re destined for something great, while others have hopes but see success as something to work toward with uncertainty.
+Questions:
+Do you believe you are on a path to becoming a great person? Why or why not? How do you define success for yourself, and how confident are you that you’ll achieve it?",30,34,3,5
+Factor2_LeadershipAuthority,I am going to be a great person.,specific,"Imagine you're at a career development event, and the speaker asks everyone to write down where they see themselves 10 years from now. Some people write confidently about becoming leaders or doing something extraordinary. Others express hopes for steady progress or reaching meaningful personal goals.
+Questions:
+Do you believe you are on a path to becoming a great person? Why or why not? How do you define success for yourself, and how confident are you that you’ll achieve it?",45,34,3,5
+Factor3_EntitlementExploitativeness,I insist upon getting the respect that is due me.,broad,"In social or professional settings, people often have different expectations about how others should treat them. Some individuals believe it’s important to actively assert themselves and ensure they’re treated with the respect they deserve, while others feel that respect should be earned gradually through actions and character.
+Questions:
+Do you think it’s important to make sure others respect you, or do you feel that respect should come naturally over time? Why? How do you usually respond when you feel you’re not being treated with the level of respect you deserve?",47,43,2,6
+Factor3_EntitlementExploitativeness,I insist upon getting the respect that is due me.,specific,"Imagine you’ve been working hard on a group project at work. During a team meeting, you share your ideas, but some team members seem to dismiss your suggestions. The group later adopts someone else’s idea without acknowledging your contribution.
+Questions:
+Would you feel the need to assert your contribution and demand recognition, or would you let it go? Why?
+In general, how do you deal with situations where you feel your input or effort isn't respected?",39,36,3,6
+Factor3_EntitlementExploitativeness,I expect a great deal from other people.,broad,"In relationships—whether with friends, colleagues, or partners—people differ in how they balance what they expect from others and what they are willing to do for others. Some people believe others should meet high standards or give them a lot of attention or support. Others focus more on what they can offer or contribute to those around them.
+Questions:
+In your relationships, do you tend to focus on what others can offer, or do you focus more on what you can give? Why? How do you feel when someone helps others or does things for others without expecting anything in return?",57,43,3,7
+Factor3_EntitlementExploitativeness,I expect a great deal from other people.,specific,"Imagine you’ve spent time helping a colleague—giving advice, offering support, and checking in regularly. Now, you’re the one going through a difficult time.
+Questions:
+Do you expect that colleague to offer the same level of support in return? Why or why not?
+How do you feel when someone helps others or does things for others without expecting anything in return?",23,36,3,7
+Factor0_NA,I think I am a special person.,broad,"People often think about how they compare to others in various areas of life—such as talents, personality, or general worth. Some people see themselves as exceptional in certain ways, while others view themselves as about the same as most people.
+Questions:
+In your own view, how do you compare to most people in terms of your abilities, personality, or overall value? Do you consider yourself to be a particularly special person? Why or why not?",40,35,3,8
+Factor0_NA,I think I am a special person.,specific,"Imagine you’re being introduced to a new group of colleagues. As everyone gets to know each other, people casually talk about their backgrounds, accomplishments, or interests. You start to form an understanding about each other's talents, personality, or general worth. You also have your notable achievements and unique experiences.
+Questions:
+When meeting new people, do you usually think of yourself as someone who is different or special compared to them? If others treat you as just an average person, how does that make you feel?",49,36,2,8
+Factor0_NA,Everybody likes to hear my stories.,broad,"In conversations with others—whether among friends, colleagues, or acquaintances—people often share stories from their lives. Some believe others genuinely enjoy hearing their stories, while others feel that people listen politely but may not be particularly excited or uninterested either way.
+Questions:
+When you share stories about your experiences in social settings, how do people usually respond? Do you believe others enjoy hearing what you have to say, or do you think their reactions are more neutral? Why?",40,37,3,9
+Factor0_NA,Everybody likes to hear my stories.,specific,"Imagine you're out with a small group of friends, and a topic comes up that reminds you of something funny or interesting that happened to you. You decide to share the story. As you're speaking, people are listening quietly—some nodding and some chuckling.
+Questions:
+Do you believe people enjoy hearing what you have to say, or do you think their reactions are more neutral? Why? When you share stories about your experiences in social settings, how do people usually respond?",43,37,3,9
+Factor0_NA,I am more capable than other people.,broad,"In both personal and professional life, people often compare their abilities with others. Some see themselves as more capable than people around them, while others believe there is a lot they can learn from others.
+Questions:
+How do you usually think about your abilities compared to others in your field or social circle? Do you often find yourself learning from others, or do you generally feel confident relying on your own skills and judgment? Why?",35,40,3,10
+Factor0_NA,I am more capable than other people.,specific,"Imagine you're solving a problem with a few colleagues. One of them suggests an approach that’s different from what you were planning. You believe your solution will work well, but theirs sounds reasonable too.
+Questions:
+In moments like this, do you see yourself as more capable than others, or do you actively consider what you might learn from their perspective? How important is it to you to show that your way is the best?",34,40,2,10

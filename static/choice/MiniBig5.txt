@@ -1,0 +1,23 @@
+
+1E	I am the life of the party.
+2A	I sympathize with others’ feelings
+3C	I get chores done right away.
+4N	I have frequent mood swings.
+5I	I have a vivid imagination.
+6E	I don’t talk a lot. (R)
+7A	I am not interested in other people’s problems. (R)
+8C	I often forget to put things back in their proper place. (R) 
+9N  I am relaxed most of the time. (R)
+10I	I am not interested in abstract ideas. (R)
+11E	I talk to a lot of different people at parties.
+12A	I feel others’ emotions.
+13C	I like order.
+14N I get upset easily.
+15I	I have difficulty understanding abstract ideas. (R)
+16E I Keep in the background. (R)
+17A	I am not really interested in others. (R)
+18C	I make a mess of things. (R)
+19N	I seldom feel blue. (R)
+20I	I do not have a good imagination. (R)
+
+Note. The IPIP items were administered with the following response options: (1) Very inaccurate, (2) Moderately inaccurate, (3) Neither inaccurate nor accurate, (4) Moderately accurate, and (5) Very accurate. Values in parentheses are Coefficient Alpha reliability estimates.

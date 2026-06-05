@@ -1,0 +1,178 @@
+{
+  "factor1_interpersonalmanipulation": {
+    "srp_clean_factor1_interpersonalmanipulation_1": {
+      "subtrait": "Factor1_InterpersonalManipulation",
+      "item": "Pretend to be someone else to get something",
+      "broad": {
+        "prompt_question": "In some situations, people may pretend to be someone else or adopt a false persona in order to gain an advantageÑwhether in social settings, job interviews, or negotiations. This can influence how others see them, often without others realizing the deception.\nQuestions:\nHave you ever pretended to be someone else or presented yourself differently to gain something? Why or why not? If yes, what happened, and how did you feel about it afterward?",
+        "id": "srp_clean_factor1_interpersonalmanipulation_1_broad"
+      },
+      "specific": {
+        "prompt_question": "YouÕre at a social event and hear someone talking about an exciting opportunity that could lead to a rewarding collaboration. YouÕre interested in joining, but you feel like you might not stand out as much since you donÕt have the exact background theyÕre looking for. You think about adjusting how you present yourself, perhaps highlighting certain experiences or skills that are a bit stretched from the truth.\nQuestions: Would you take this approach to make yourself seem more appealing, or would you choose to stay fully honest, even if it means missing out on the opportunity? Why?",
+        "id": "srp_clean_factor1_interpersonalmanipulation_1_specific"
+      }
+    },
+    "srp_clean_factor1_interpersonalmanipulation_2": {
+      "subtrait": "Factor1_InterpersonalManipulation",
+      "item": "People are naive/people are suckers, easy to fool",
+      "broad": {
+        "prompt_question": "People have different views about human nature. Some believe that most people are thoughtful and cautious, while others think many people are easily misled or manipulated. These beliefs can influence how we choose to interact with othersÑwhether we feel the need to be honest or whether we feel justified in using certain strategies to get what we want.\nQuestion:\nIn your opinion, are people generally easy or difficult to fool? Why do you think so?",
+        "id": "srp_clean_factor1_interpersonalmanipulation_2_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre working with a colleague on a group project. You notice that this colleague tends to believe everything theyÕre told without questioning it. They donÕt check facts, take suggestions at face value, and rarely push back.\n\nQuestions:\nDo you see this colleague as trusting, naive, or something else?\nWould you feel tempted to give this colleague more tedious tasks or withhold certain information? Why or why not?",
+        "id": "srp_clean_factor1_interpersonalmanipulation_2_specific"
+      }
+    },
+    "srp_clean_factor1_interpersonalmanipulation_3": {
+      "subtrait": "Factor1_InterpersonalManipulation",
+      "item": "Get things by saying what is expected to be heard/get by tell people what they want",
+      "broad": {
+        "prompt_question": "Some people choose to speak honestly, even if their message is difficult or unpopular. Others prefer to say what people want to hearÑwhether to avoid conflict, gain approval, or influence someoneÕs behavior. These choices often reflect how we balance authenticity and social effectiveness.\n\nQuestions:\nHow do you usually handle situations where saying the Òright thingÓ could help you get something you want?\nHave you ever chosen to say what someone wanted to hear, even if it wasnÕt exactly how you felt? Why?\n",
+        "id": "srp_clean_factor1_interpersonalmanipulation_3_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre in a meeting or an interview where you really want a specific outcomeÑlike a job, a favor, or an opportunity. You realize that the person in charge has strong opinions and that you could improve your chances by agreeing with them or telling them exactly what they want to hear, even if itÕs not entirely what you believe.\nQuestions:\nWhat would you be most likely to do in that situation, and why?\nHow do you feel about saying things you donÕt fully believe in order to achieve a goal?",
+        "id": "srp_clean_factor1_interpersonalmanipulation_3_specific"
+      }
+    }
+  },
+  "factor1_callousaffect": {
+    "srp_clean_factor1_callousaffect_4": {
+      "subtrait": "Factor1_CallousAffect",
+      "item": "I like watching fights/like to see fist fights",
+      "broad": {
+        "prompt_question": "People differ in how they react to conflict or violence. Some feel discomfort or distress when witnessing a physical fight, while others may find it exciting or entertaining. These reactions can be shaped by personal experiences, emotional sensitivity, or beliefs about strength and justice.\nQuestions:\nHow do you typically feel when you see a physical fightÑeither in real life, online, or in movies?\nCan you explain why you think you react that way?",
+        "id": "srp_clean_factor1_callousaffect_4_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre walking through a school hallway or a public place and suddenly see two people getting into a fist fight. A crowd begins to gather.\nQuestions:\nWhat would you be most likely to do in that moment, and why?\nHow do you think you'd feel while watching this? Would it be upsetting, exciting, or something else?",
+        "id": "srp_clean_factor1_callousaffect_4_specific"
+      }
+    },
+    "srp_clean_factor1_callousaffect_5": {
+      "subtrait": "Factor1_CallousAffect",
+      "item": "I am attracted to violent sports/movies",
+      "broad": {
+        "prompt_question": "People vary in the kinds of entertainment they enjoy. Some are drawn to action-packed sports or movies that feature intense competition, violence, or combat. Others prefer entertainment thatÕs more peaceful or emotionally nuanced. These preferences may reflect how we process emotions, excitement, or conflict.\nQuestions:\nHow do you feel about watching violent sports or movies? Do you find them entertaining, uncomfortable, or something else?",
+        "id": "srp_clean_factor1_callousaffect_5_broad"
+      },
+      "specific": {
+        "prompt_question": "YouÕre chatting with friends about popular TV shows, and someone brings up a highly anticipated boxing match or combat event. The group starts sharing opinions. Some people say they love these showsÑthey enjoy the tension, the adrenaline, and the thrill of watching people push their limits. Others say they find them too violent or unsettling, or they simply prefer more thoughtful, peaceful kinds of entertainment.\nQuestion:\nIn daily life, do you enjoy watching intense shows like boxing, combat sports, or bullfighting? If so, what do you find appealing about them? If not, why do you tend to avoid them?",
+        "id": "srp_clean_factor1_callousaffect_5_specific"
+      }
+    },
+    "srp_clean_factor1_callousaffect_6": {
+      "subtrait": "Factor1_CallousAffect",
+      "item": "I leave friends that I no longer need/dumps friends don't need",
+      "broad": {
+        "prompt_question": "People form and maintain friendships for different reasons. Some value long-term emotional connection and loyalty, while others focus more on mutual benefit or shared goals. Over time, some friendships may fade or end, especially when the original purpose or connection changes.\nQuestions:\nHow important is loyalty or usefulness in your friendships?\nWhat usually leads you to end a friendship or drift away from someone you once spent time with?",
+        "id": "srp_clean_factor1_callousaffect_6_broad"
+      },
+      "specific": {
+        "prompt_question": "You havenÕt spoken to your childhood friend in a long time. You were once very close, but over the years, you both moved to different places for school and work. Recently, he reached out to chat. His life hasnÕt been going well, while youÕre now busy building a successful career. You sense that he might be hoping for your help, even though he likely canÕt offer anything in return.\nQuestions:\nWould you try to reconnect and offer help, or would you distance yourself and move on, seeing it as a natural change in relationships? Why?\nWhen a friendship starts to fade or shift, how do you decide whether to let it go or maintain the connection?",
+        "id": "srp_clean_factor1_callousaffect_6_specific"
+      }
+    }
+  },
+  "factor2_erraticlifestyle": {
+    "srp_clean_factor2_erraticlifestyle_7": {
+      "subtrait": "Factor2_ErraticLifestyle",
+      "item": "I am rebellious/I'm rebellious person",
+      "broad": {
+        "prompt_question": "People differ in how they respond to rules, expectations, or authority. Some prefer to follow guidelines and avoid conflict, while others feel the need to challenge restrictions, speak out, or resist being controlledÑespecially when they feel the rules are unfair or unnecessary.\nQuestions:\nHow do you usually feel when someone in authority tells you what to do?\nCan you think of a time when you chose to break a rule or go against expectations? If so, what led to that decision?",
+        "id": "srp_clean_factor2_erraticlifestyle_7_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine you're in a work or school setting where a new rule or policy has just been introduced. You strongly disagree with itÑyou think itÕs unnecessary and limiting.\nQuestions:\nHow would you respond in that situation? Would you go along with the rule, speak out against it, or break it? Why?\nHow do you usually decide whether to follow or challenge rules?",
+        "id": "srp_clean_factor2_erraticlifestyle_7_specific"
+      }
+    },
+    "srp_clean_factor2_erraticlifestyle_8": {
+      "subtrait": "Factor2_ErraticLifestyle",
+      "item": "Danger excites me/I've often done dangerous things just for the thrill of it",
+      "broad": {
+        "prompt_question": "People vary in how they respond to risk and danger. Some prefer to avoid risky situations and feel anxious when facing uncertainty. Others are drawn to thrilling experiences and enjoy the rush that comes with pushing limitsÑwhether through extreme sports, risky decisions, or daring behavior.\nQuestions:\nHow do you usually feel in situations that involve risk, uncertainty, or potential danger?\nCan you recall a time when you did something risky or dangerous mostly for the excitement?",
+        "id": "srp_clean_factor2_erraticlifestyle_8_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre on a weekend trip with friends, and someone suggests doing something risky for funÑlike jumping from a high cliff into a river, exploring a dangerous trail without proper gear, or racing cars on an empty road. Some people in the group are excited, others are hesitant or worried about safety.\nQuestions:\nWould you want to join in or hold back? Why?\nWhat factors would influence your decisionÑsuch as the thrill, the risk, peer pressure, or your own comfort level?",
+        "id": "srp_clean_factor2_erraticlifestyle_8_specific"
+      }
+    },
+    "srp_clean_factor2_erraticlifestyle_9": {
+      "subtrait": "Factor2_ErraticLifestyle",
+      "item": "I enjoy doing daring things/enjoy doing wild things",
+      "broad": {
+        "prompt_question": "Some people are drawn to experiences that feel bold, unpredictable, or a little wild. They might enjoy spontaneous adventures, breaking routines, or doing things that others see as unconventional or daring. Others prefer to stay within familiar boundaries and avoid chaotic or unexpected situations.\nQuestions:\nHow do you feel about doing things that are wild, bold, or out of the ordinary?\nCan you think of a time when you did something daring or spontaneous just for the experience? If so, how did you feel about it afterward?",
+        "id": "srp_clean_factor2_erraticlifestyle_9_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine you are given the opportunity to participate in a spontaneous activity, such as a surprise road trip or an adventurous event with no detailed plan. The activity promises to be thrilling but comes with uncertainty.\nQuestions:\nWould you join in, suggest something different, or hold back? Why?\nHow do you usually decide whether to go along with something that feels bold or spontaneous?",
+        "id": "srp_clean_factor2_erraticlifestyle_9_specific"
+      }
+    },
+    "srp_clean_factor2_erraticlifestyle_10": {
+      "subtrait": "Factor2_ErraticLifestyle",
+      "item": "I don't follow rules/rarely follow rules",
+      "broad": {
+        "prompt_question": "People vary in how they relate to rules and expectations. Some believe rules are important for keeping order and fairness, while others feel that rules are often limiting, unnecessary, or meant to be bent. These attitudes can affect how we behave in everyday situationsÑfrom school and work to social settings.\nQuestions:\nHow do you usually feel about following rules or guidelines in daily life?\nHave there been times when you chose not to follow a rule? If so, what led to that decision, and how did you feel about it afterward?",
+        "id": "srp_clean_factor2_erraticlifestyle_10_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine you're on an outdoor adventure with a group of friends. The organizer has set several rulesÑeveryone must wear safety gear, stay within a designated area, and follow a specific route. Some people feel that these rules limit their freedom, especially once you're deep into the activity and thereÕs no one else around to enforce them.\nQuestion:\nWould you stick to the rules to maintain safety and order, or would you feel it's okay to occasionally bend the rules for the sake of freedom and enjoyment? Why?",
+        "id": "srp_clean_factor2_erraticlifestyle_10_specific"
+      }
+    },
+    "srp_clean_factor2_erraticlifestyle_11": {
+      "subtrait": "Factor2_ErraticLifestyle",
+      "item": "I have sex with strangers/sex with people barely know",
+      "broad": {
+        "prompt_question": "People have different views about intimacy and relationships. Some prefer to build strong emotional connections before being physically intimate, while others are more open to casual experiences, even with people theyÕve just met. These preferences can reflect personality, values, or lifestyle.\n\nQuestions:\nHow do you usually approach new relationships or sexual encountersÑdo you prefer to take time, or are you open to more spontaneous experiences? Have you ever had a sexual encounter with someone you barely knew? If so, what led to that decision, and how did you feel about it afterward?",
+        "id": "srp_clean_factor2_erraticlifestyle_11_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine you're at a party or social event and meet someone you feel attracted to. You hit it off quicklyÑthereÕs strong chemistry and shared excitement. The person expresses interest in going home with you, even though you've only just met.\n\nQuestions:\nWhat would you be most likely to do in that situation, and why?\nHow do you usually decide whether to pursue physical intimacy with someone new?",
+        "id": "srp_clean_factor2_erraticlifestyle_11_specific"
+      }
+    }
+  },
+  "factor2_criminaltendencies": {
+    "srp_clean_factor2_criminaltendencies_12": {
+      "subtrait": "Factor2_CriminalTendencies",
+      "item": "Sometimes I carry weapons for protection/sometimes carry weapons",
+      "broad": {
+        "prompt_question": "People differ in how they think about personal safety. Some trust that their environment is generally safe, while others carry items like pepper spray, pocketknives, or other weapons just in case.\nQuestions:\nHave you ever felt the need to carry something for protection? If so, what led to that decision?\nHow often, if at all, do you carry anything for protection?",
+        "id": "srp_clean_factor2_criminaltendencies_12_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre going to a part of town or an event where you donÕt feel entirely safe. You know some people carry items like pepper spray, pocketknives, or other weapons just in case. Others rely on staying alert, moving in groups, or avoiding risky places altogether.\nQuestions:\nHow do you usually decide whether you need to carry something for protection? How often, if at all, do you carry anything for protection?",
+        "id": "srp_clean_factor2_criminaltendencies_12_specific"
+      }
+    },
+    "srp_clean_factor2_criminaltendencies_13": {
+      "subtrait": "Factor2_CriminalTendencies",
+      "item": "I threaten to get money/threaten people to get money",
+      "broad": {
+        "prompt_question": "People deal with financial stress and personal goals in different ways. Some look for help, negotiate, or work through challenges, while others may resort to more forceful or confrontational approachesÑsuch as threats or pressureÑto get what they want.\nQuestions:\nHow do you usually handle situations where you're under pressure and need something urgently from someone else?\nHave you ever been tempted to use threats or pressure to get something you wanted, like money or help? If so, what happened?",
+        "id": "srp_clean_factor2_criminaltendencies_13_broad"
+      },
+      "specific": {
+        "prompt_question": "Imagine youÕre under serious financial pressure, and the stress of debt is affecting your daily life. One day, you realize you could pressure someoneÑperhaps someone who feels guilty toward youÑinto giving you the money you need, either through subtle manipulation or direct threats.\nQuestions:\nWould you consider going through with that strategy, or would you choose another way to handle your situation?\nHow do you view the use of intimidation or pressure when you're desperate?",
+        "id": "srp_clean_factor2_criminaltendencies_13_specific"
+      }
+    },
+    "srp_clean_factor2_criminaltendencies_14": {
+      "subtrait": "Factor2_CriminalTendencies",
+      "item": "I tried to hit someone with a car/tried to hit people with vehicle",
+      "broad": {
+        "prompt_question": "Everyone experiences anger or frustration at times, especially in high-stress situations like driving or dealing with road conflict. While some people express their anger through words or withdrawal, others may feel urges to act out physically or aggressively.\nQuestion:\nHave you ever felt the urge to do something physically aggressiveÑlike using your vehicle to scare or retaliate against someone on the road? If so, what happened?",
+        "id": "srp_clean_factor2_criminaltendencies_14_broad"
+      },
+      "specific": {
+        "prompt_question": "One day, youÕre stuck in traffic on your way home. A driver suddenly cuts in front of you, almost forcing you off the road. You feel shocked and angry. Some people might honk, yell, or ignore it. Others may feel tempted to retaliateÑby speeding up, tailgating, or even swerving toward the other driver.\nQuestions:\nWhat would you be most likely to do in that kind of situation, and why?",
+        "id": "srp_clean_factor2_criminaltendencies_14_specific"
+      }
+    }
+  }
+}

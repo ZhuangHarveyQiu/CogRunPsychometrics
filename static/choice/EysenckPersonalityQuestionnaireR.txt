@@ -1,0 +1,35 @@
+Lie scale (L) items. A high score on this scale indicates a tendency to present oneself in an overly favorable manner, which may compromise the reliability of the other scores. Answer key:
+
+Yes: 15, 23, 39, 62, 86, 98
+No: 4, 10, 19, 27, 32, 44, 49, 53, 57, 66, 71, 77, 82, 89, 93
+
+
+Please read each statement carefully and select Yes or No based on how well it describes you. There are no right or wrong answers.
+
+15epqr.	If you say you will do something, do you always keep your promise no matter how inconvenient it might be?
+23epqr.	Are all your habits good and desirable ones?
+39epqr.	As a child did you do as you were told immediately and without grumbling?
+62epqr. Do you always wash before a meal?
+86epqr.	Do you always practice what you preach?
+98epqr.	Are you always willing to admit it when you have made a mistake?
+4epqr.	Have you ever taken the praise for something you knew someone else had really done?
+10epqr.	Were you ever greedy by helping yourself to more than your share of anything?
+19epqr.	Have you ever blamed someone for doing something you knew was really your fault?
+27epqr.	Have you ever taken anything (even a pin or button) that belonged to someone else?
+32epqr.	Do you sometimes talk about things you know nothing about?
+44epqr.	Have you ever broken or lost something belonging to someone else?
+49epqr.	Do you sometimes boast a little?
+53epqr.	Have you ever said anything bad or nasty about anyone?
+57epqr.	As a child were you ever cheeky to your parents?
+66epqr.	Have you ever cheated at a game?
+71epqr.	Have you ever taken advantage of someone?
+77epqr.	Would you dodge paying taxes if you were sure you could never be found out?
+82epqr.	Have you ever insisted on having your own way?
+89epqr.	Have you ever been late for an appointment or work?
+93epqr.	Do you sometimes put off until tomorrow what you ought to do today?
+
+Reference
+Eysenck, S. B. G., Eysenck, H. J., & Barrett, P. (1985). A revised version of the psychoticism scale. Personality and Individual Differences, 6(1), 21–29. https://doi.org/10.1016/0191-8869(85)90026-1
+
+
+
