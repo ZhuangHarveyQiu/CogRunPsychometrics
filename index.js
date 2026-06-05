@@ -1,8 +1,3 @@
-import { initJsPsych } from "jspsych";
-import surveyText from "@jspsych/plugin-survey-text";
-import surveyMultiChoice from "@jspsych/plugin-survey-multi-choice";
-import htmlButtonResponse from "@jspsych/plugin-html-button-response";
-
 const style = document.createElement("style");
 style.innerHTML = `
   .jspsych-content {
@@ -22,7 +17,7 @@ const jsPsych = initJsPsych({
 });
 
 const welcome = {
-  type: htmlButtonResponse, // jsPsychHtmlButtonResponse
+  type: jsPsychHtmlButtonResponse, // jsPsychHtmlButtonResponse
   stimulus: `
   <h2>Informed Consent Form</h2>
 
@@ -94,7 +89,7 @@ const welcome = {
 };
 
 const demographics_1 = {
-  type: surveyMultiChoice, // jsPsychSurveyMultiChoice
+  type: jsPsychSurveyMultiChoice, // jsPsychSurveyMultiChoice
   preamble:
     "<h2>Demographic Information</h2>Please provide the following demographic information:",
   questions: [
@@ -109,7 +104,7 @@ const demographics_1 = {
 };
 
 const demographics_2 = {
-  type: surveyText, // jsPsychSurveyText
+  type: jsPsychSurveyText, // jsPsychSurveyText
   preamble:
     "<h2>Demographic Information</h2>Please provide the following demographic information:",
   questions: [
@@ -124,7 +119,7 @@ const demographics_2 = {
 };
 
 const surveyChoiceInstruction = {
-  type: htmlButtonResponse, // jsPsychHtmlButtonResponse
+  type: jsPsychHtmlButtonResponse, // jsPsychHtmlButtonResponse
   stimulus: `<h2>Instructions</h2>
   <div style="text-align:left">
     This survey consists of two sessions:<br>
@@ -143,7 +138,7 @@ const surveyChoiceInstruction = {
 };
 
 const multiChoice = {
-  type: surveyMultiChoice, // jsPsychSurveyMultiChoice
+  type: jsPsychSurveyMultiChoice, // jsPsychSurveyMultiChoice
   preamble: `<h3>Session 1</h3><br>
     (about 15 minutes to complete)<br>
     <h4>Instruction: Please indicate how much you agree with each of the following statements.</h4>`,
@@ -1209,7 +1204,7 @@ const multiChoice = {
 };
 
 const situation_intro = {
-  type: htmlButtonResponse, // jsPsychHtmlButtonResponse
+  type: jsPsychHtmlButtonResponse, // jsPsychHtmlButtonResponse
   stimulus: `<h3>Session 2</h3><br>
     (about 40 minutes to complete)<br>
     <h4>Instruction: </h4>
@@ -1741,7 +1736,7 @@ const srpSample = sampleTwoDifferentSubtraits(srpQuestions);
 
 function createSitu(question, displayId, dataId) {
   return {
-    type: surveyText,
+    type: jsPsychSurveyText,
     questions: [
       {
         prompt: `<h1>Situation ${displayId}</h1><p>${question}</p>`,
@@ -1837,7 +1832,7 @@ const situ_5_loop = createSituLoop(situ_5);
 const situ_6_loop = createSituLoop(situ_6);
 
 const feedback = {
-  type: surveyText,
+  type: jsPsychSurveyText,
   questions: [
     {
       prompt: `<h1>Feedback</h1><div style="text-align:left"><p>You're almost done! Please leave any thoughts you have here. Were any instructions unclear? Did you find any questions confusing? All feedback is welcome!</p></div>`,
@@ -1878,7 +1873,7 @@ function generateConfirmationCode(length = 8) {
 let confirmationCode = generateConfirmationCode();
 
 const end = {
-  type: htmlButtonResponse, // jsPsychHtmlButtonResponse
+  type: jsPsychHtmlButtonResponse, // jsPsychHtmlButtonResponse
   stimulus: () => `<h1>Thank you for your participation.</h1>
     <p>Your confirmation code is: <b style="font-size:1.5em">${confirmationCode}</b></p>
     <p>Please copy and submit this code to Amazon MTurk to receive your reward.</p>`,
